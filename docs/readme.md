@@ -10,3 +10,5 @@ Mobile application for organizing events.
 
 1. Clone the repository
 2. Open src/index.html in a browser
+
+This paragraph will be reverted.
